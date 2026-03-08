@@ -1,63 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:ff9a00&height=200&section=header&text=Vishal%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&multiline=false&width=600&lines=Hey+%F0%9F%91%8B+What's+Up%3F;I'm+a+FullStack+Developer+%F0%9F%9A%80;Building+cool+stuff+on+the+web+%F0%9F%8C%90;Currently+learning+NodeJs+%26+Docker+%F0%9F%90%B3;Open+to+exciting+opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7c59f,100:ff6b35&height=220&section=header&text=Vishal%20Gupta&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlignY=58&descSize=20&animation=fadeIn" />
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+<div align="center">
 
-```yaml
-name       : Vishal Gupta
-location   : India 🇮🇳
-role       : FullStack Developer
-learning   : [ AIML, System design ]
-email      : vg2556519@gmail.com
-portfolio  : https://vsite.tech
-status     : Open to Work ✅
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=FF6B35&center=true&vCenter=true&width=700&lines=Hey+👋+What's+Up!;I'm+a+Full+Stack+Developer+🚀;React+%7C+Node.js+%7C+Docker+%7C+AWS;Problem+Solver+on+LeetCode+🧩;Building+%7C+Learning+%7C+Growing+🌱;Open+to+Work+—+Let's+Connect!+💼)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧬 About Me
+
+```typescript
+const vishal: Developer = {
+  name       : "Vishal Gupta",
+  location   : "India 🇮🇳",
+  role       : "Full Stack Developer",
+  portfolio  : "https://vsite.tech",
+  email      : "vg2556519@gmail.com",
+  leetcode   : "vishal_0194",
+  currently  : ["Node.js 🟢", "Docker 🐳", "System Design 🏗️"],
+  passions   : ["Clean Code", "Scalable Systems", "Open Source"],
+  funFact    : "I debug in production and I am not ashamed 🔥",
+  openToWork : true,
+};
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Figma](https://skillicons.dev/icons?i=figma)
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,redux,figma&perline=9" />
 
-### ⚙️ Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=py)
-![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)
+### ⚙️ Backend & Languages
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,c&perline=9" />
 
 ### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=9" />
 
-### ☁️ Cloud & DevOps
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
+### ☁️ Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,linux,postman&perline=9" />
 
 </div>
 
@@ -67,78 +57,124 @@ status     : Open to Work ✅
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal4719&show_icons=true&theme=tokyonight&border_color=ff6b35&title_color=ff6b35&icon_color=ff9a00&hide_border=false&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4719&layout=compact&theme=tokyonight&border_color=ff6b35&title_color=ff6b35&hide_border=false" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishal4719&show_icons=true&theme=tokyonight&border_color=ff6b35&title_color=ff6b35&icon_color=ff9a00&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal4719&layout=compact&theme=tokyonight&border_color=ff6b35&title_color=ff6b35&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=8" height="180" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vishal4719&theme=tokyonight&border=ff6b35&ring=ff6b35&fire=ff9a00&currStreakLabel=ff6b35&hide_border=false" height="170" />
+<img src="https://streak-stats.demolab.com?user=vishal4719&theme=tokyonight&border=ff6b35&ring=ff6b35&fire=ff9a00&currStreakLabel=ff6b35&sideLabels=ff9a00&background=0d1117&hide_border=false" height="180" />
 
 </div>
 
 ---
 
-<!--## 🏆 GitHub Trophies>
+## 🧩 LeetCode Stats
 
-<!-- <div align="center">
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishal4719&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+### 📅 Problem Solving Heatmap
+<img src="https://leetcard.jacoblin.cool/vishal_0194?theme=dark&font=Fira+Code&ext=heatmap&border=1&radius=12" />
 
-</div> -->
+</div>
 
-<!---
+<br/>
 
-<!--## 🐍 Contribution Snake>
+<div align="center">
 
-<!-- <div align="center">
+### 🏅 Contest Rating
+<img src="https://leetcard.jacoblin.cool/vishal_0194?theme=dark&font=Fira+Code&ext=contest&border=1&radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎖️ Earned Badges
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vishal_0194&animated=true)](https://leetcode.com/u/vishal_0194/)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishal4719&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Vishal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal4719&theme=tokyo-night&bg_color=0d1117&color=ff6b35&line=ff9a00&point=ffffff&area=true&area_color=ff6b3530&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal4719/vishal4719/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal4719/vishal4719/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vishal4719/vishal4719/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vishal4719/vishal4719/output/github-snake-dark.svg" />
 </picture>
 
-</div> -->
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 💬 Dev Quote of the Day
 
 <div align="center">
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal4719&theme=tokyo-night&color=ff6b35&line=ff9a00&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vsite.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-gupta-b99797260/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal4719)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishal_4719)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/vishal_4719)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vg2556519@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vsite.tech-ff6b35?style=for-the-badge&logoColor=white)](https://vsite.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-gupta-b99797260/)
+[![GitHub](https://img.shields.io/badge/GitHub-vishal4719-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishal4719)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vishal__0194-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishal_0194/)
+[![Instagram](https://img.shields.io/badge/Instagram-vishal__4719-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishal_4719)
+[![Gmail](https://img.shields.io/badge/Gmail-vg2556519-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vg2556519@gmail.com)
 
 </div>
 
 ---
 
-## 👁️ Profile Views
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishal4719&color=ff6b35&style=for-the-badge&label=PROFILE+VIEWS)
+### 👁️ Profile Visitors & Stats
+
+![Visitor Count](https://komarev.com/ghpvc/?username=vishal4719&color=ff6b35&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/vishal4719?style=for-the-badge&color=ff6b35&labelColor=0d1117&logo=github)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/vishal4719?style=for-the-badge&color=ff9a00&labelColor=0d1117&logo=github)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a00,100:ff6b35&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:f7c59f,100:ff9a00&height=130&section=footer&text=Thanks+for+visiting!+⭐+Star+my+repos&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
 </div>
